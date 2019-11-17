@@ -1,6 +1,6 @@
-import Paddle from "/brick/src/paddle";
-import InputHandler from "/brick/src/input";
-import Ball from "/brick/src/ball";
+import Paddle from "./paddle";
+import InputHandler from "./input";
+import Ball from "./ball";
 
 // Grabbing the canvas from html
 let canvas = document.getElementById("gameScreen");
